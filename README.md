@@ -1,5 +1,8 @@
 # PromptZip
 
+[Open PromptZip website](https://promptzip-web.pages.dev/) · [Website source](https://github.com/joshadi15/promptzip-web)
+
+
 [English](README.md) · [Bahasa Indonesia](README.id.md)
 
 PromptZip helps you shorten prompts and inspect the token difference before sending them. The app opens directly on **Compressor** and runs its compression and instant checks in your browser.
