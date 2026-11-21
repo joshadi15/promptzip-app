@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 92" role="img" aria-labelledby="title">
+  <title id="title">PromptZip</title>
+  <path d="M9 9 57 30.5v13.3L25.3 29.9v38.2L57 54.2v13.3L9 89V9Z" fill="#326fea"/>
+  <path d="M91 13.1 60.3 28.5v14.7l16.4-7.2v25.8l-16.4-7.2v14.7L91 84.9V13.1Z" fill="#15c8c4"/>
+  <text x="111" y="65" fill="#18181b" font-family="DM Sans, Inter, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-2">PromptZip</text>
+</svg>
