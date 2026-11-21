@@ -1,6 +1,6 @@
 # PromptZip
 
-[Open PromptZip website](https://promptzip-web.pages.dev/) · [Website source](https://github.com/joshadi15/promptzip-web)
+[Open PromptZip website](https://promptzip-web.pages.dev/)
 
 
 [English](README.md) · [Bahasa Indonesia](README.id.md)
