@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="theme-color" content="#06090f" />
+    <script>
+      try {
+        document.documentElement.classList.toggle('dark', localStorage.getItem('promptzip.theme.preference') !== 'light');
+      } catch {}
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>PromptZip — Prompt Compression & Local Review</title>
+    <meta
+      name="description"
+      content="Compress prompts and review clarity, ambiguity, and agent instructions locally with optional Qwen analysis."
+    />
+    <meta
+      property="og:title"
+      content="PromptZip — Prompt Compression & Local Review"
+    />
+    <meta
+      property="og:description"
+      content="Compress prompts and review clarity, ambiguity, and agent instructions locally with optional Qwen analysis."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-[#FAF9F6] text-zinc-900 antialiased dark:bg-[#0B0B0D] dark:text-zinc-100">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
